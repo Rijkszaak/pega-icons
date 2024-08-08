@@ -1,0 +1,19 @@
+{
+  "name": "pega-icons",
+  "version": "1.0.0",
+  "description": "A collection of svg-icons, sourced from Pega",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rijkszaak/pega-icons.git"
+  },
+  "keywords": [
+    "svg",
+    "pega",
+    "icon"
+  ],
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "prettier-plugin-package": "1.4.0"
+  }
+}
